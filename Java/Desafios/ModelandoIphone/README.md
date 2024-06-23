@@ -3,7 +3,7 @@
 Bem vindo ao projeto de modelagem simples do iphone apresentado em 2007.
 
 ## Diagrama UML
-```Mermaid
+```mermaid
 ---
 title: Iphone
 ---
